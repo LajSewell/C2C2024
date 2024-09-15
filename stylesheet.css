@@ -1,0 +1,63 @@
+
+
+    body {
+        background-color: #brown;
+    }
+
+    ul {
+        
+        color:whitesmoke;
+        text-align: center;
+        font-family: "Times New Roman";
+        background-color: #658354;
+        padding: 15px;
+        
+
+    }
+
+    h1 {
+        color: whitesmoke;
+        text-align: center;
+        font-size: 60px;
+    }
+
+    #spending {
+        font-family: "Times New Roman";
+        font-size: 20px;
+        color: whitesmoke;
+        background-color: #4b6043;
+        text-align: center;
+        padding: 20px;;
+    }
+
+    h3{
+        color: #658354;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    #beforeyoukeepgoing {
+        font-family: "Times New Roman";
+        font-size: 20px;
+        text-align: center;
+        color:bisque;
+
+    }
+
+    #rain-gif {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+            border: #658354;
+            border-style: groove;
+            }
+
+
+            footer {
+                color: #658354;
+                font-size: 1em;
+                .addBtn:hover {
+                    background-color: bisque;
+                  }
+              }
